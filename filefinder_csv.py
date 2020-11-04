@@ -46,6 +46,6 @@ def showfile(pathset,fileset,filepath):
 #生成的csv路径
 filepath="D:\\script\\动漫.csv"
 #含有相同类型的文件夹集合
-pathset=["H:\\视频\\动漫\\","I:\\视频\\动漫\\","K:\\视频\\动漫\\","L:\\视频\\动漫\\","M:\\视频\\动漫\\","L:\\视频\\动漫\\H\\"]
+pathset=["H:\\视频\\动漫\\","I:\\视频\\动漫\\","K:\\视频\\动漫\\","L:\\视频\\动漫\\","M:\\视频\\动漫\\"]
 fileset=set()
 showfile(pathset,fileset,filepath)
