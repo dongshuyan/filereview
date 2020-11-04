@@ -1,5 +1,5 @@
 # FileReviewer
-Generate a csv file that can reach the folder you need.
+Generate a csv file which record your folders and the their paths which make you reach them easily.
 
 因为很喜欢某一种资源，比如动漫/电影。所以收藏了很多资源。但是由于硬盘容量限制，导致每一个硬盘都有一部分资源，导致想找的时候很费劲。
 为了方便查找写了这个脚本，其功能如下：
